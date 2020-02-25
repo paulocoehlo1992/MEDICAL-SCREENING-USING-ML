@@ -1,4 +1,4 @@
-**Estimating Medical Adversity Score using Machine Learning **
+***Estimating Medical Adversity Score using Machine Learning***
 
 We started with creating target variable using RATE_UP_REASONS as surrogate.
 Applicants who were rated up due to medical reasons are encoded as **1** and the
@@ -15,7 +15,7 @@ records/data points out of which 2344 are diagnosed with medical conditions.
 |---------------|-----------|-----------|
 | 24789         | 2344      | 22445     |
 
-Next step was to merge HDFC dataset and DIGILYTICS dataset .We defined cohorts
+Next step was to merge insurer dataset and third-party  biomarkers dataset .We defined cohorts
 based on [CITY ,GENDER, AGE GROUPS ] in HDFC dataset and merged DIGILYTICS
 dataset .
 
