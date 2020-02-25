@@ -19,7 +19,7 @@ Next step was to merge HDFC dataset and DIGILYTICS dataset .We defined cohorts
 based on [CITY ,GENDER, AGE GROUPS ] in HDFC dataset and merged DIGILYTICS
 dataset .
 
-![](media/de99798e35064c4d1746b55178092b9f.png)
+![](de99798e35064c4d1746b55178092b9f.png)
 
 Once we had merged data , the next step was to do necessary data sanitation
 check and feature engineering , which includes the generation of new features
@@ -67,7 +67,7 @@ these customers .
 
 For example ,
 
-![](media/a4fd48c393f2b48872b39d98db2e99d1.png)
+![](a4fd48c393f2b48872b39d98db2e99d1.png)
 
 Red colored blocks represents the features which are increasing the overall
 probability while Blue color represents the opposite(i.e decrease the
