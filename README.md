@@ -1,4 +1,4 @@
-**OVERVIEW OF MODELING APPROACH**
+**Estimating Medical Adversity Score using Machine Learning **
 
 We started with creating target variable using RATE_UP_REASONS as surrogate.
 Applicants who were rated up due to medical reasons are encoded as **1** and the
